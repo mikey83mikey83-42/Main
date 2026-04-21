@@ -5,7 +5,7 @@ services:
     name: warranty-hub
     runtime: python
     repo:
-https://github.com/mikey83mikey83-42/
+https://github.com/mikey83mikey83-42/:
     plan: free
     region: oregon
     buildCommand: pip install -r requirements.txt
